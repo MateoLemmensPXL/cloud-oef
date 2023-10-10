@@ -1,4 +1,3 @@
 #!/bin/bash
-cd ~
-cd bin
-npm run 
+cd ~/bin
+npm start 
